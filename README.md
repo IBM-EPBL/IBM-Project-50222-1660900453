@@ -27,3 +27,5 @@ Handwriting recognition is one of the compelling research works going on because
 - [x] Model Building
 - [x] Application Building
 - [x] Train the Model on IBM
+- [x] Demo Video
+
