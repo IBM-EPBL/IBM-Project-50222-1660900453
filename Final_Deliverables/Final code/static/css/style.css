@@ -1,0 +1,107 @@
+  #clear_button{
+    margin-left: 15px;
+    font-weight: bold;
+    color: rgb(0, 174, 255);
+  }
+  
+  #confidence{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 7.5%;
+  }
+  
+  #content{
+    margin: 0 auto;
+    padding: 2% 15%;
+    padding-bottom: 0;
+  }
+  
+  .welcome{
+     text-align: center;
+     position: relative;
+     color: rgb(0, 32, 112);
+     background-color: skyblue;
+     padding-top: 1%;
+     padding-bottom: 1%;
+     font-weight: bold;
+     font-family: 'Bookman', 'URW Bookman L', serif;
+  }
+  
+  #team_id{
+     text-align: right;
+     font-size: 25px;
+     padding-right: 3%;
+  }
+  
+  #predict_button{
+    margin-right: 15px;
+    color: rgb(0, 255, 72);
+    font-weight: bold;
+  }
+  
+  #prediction_heading{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 7.5%;
+  }
+  
+  #result{
+    font-size: 5rem;
+  }
+  
+  #title{
+    padding: 1.5% 15%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .btn {
+      font-size: 15px;
+      padding: 10px;
+      /* -webkit-appearance: none; */
+      background: #eee;
+      border: 1px solid #888;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  
+  .buttons_div{
+    margin-bottom: 30px;
+    margin-right: 80px;
+  }
+  
+  .heading{
+    font-family:"American Typewriter", serif;
+    font-weight: 700;
+    font-size: 2rem;
+    display: inline;
+  }
+  
+  .leftside{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 2%;
+    /* padding-left: 10%; */
+  }
+  
+  #frame{
+    margin-right: 10%;
+  }
+  
+  .predicted_answer{
+    text-align: center;
+    margin: 0 auto;
+    padding: 3% 5%;
+    padding-top: 0;
+    /* padding-left: 10%; */
+  }
+  
+  h1{
+    text-align: center;
+    color: aliceblue;
+    padding: 100px 50px 65px 100px;
+}
+  
+  @media (min-width: 720px) {
+    .leftside{
+      padding-left: 10%;
+    }
+  }

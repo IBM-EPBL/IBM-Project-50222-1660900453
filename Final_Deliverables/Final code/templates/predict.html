@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction</title>
+</head>
+
+<style>
+    body{
+     background-image: url('static/images/bc1.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+    }
+
+    #rectangle{
+     width:600px;
+     height:150px;
+     background-color: #000000;
+     border-radius: 25px;
+     position:absolute;
+     box-shadow: 0px 0px 10px 5px white;
+     top:25%;
+     left:50%;
+     transform:translate(-50%,-50%);
+    }
+
+    #num{
+  text-align: center;
+  font-size: 30px;
+  margin: 0 auto;
+  padding: 3% 5%;
+  padding-top: 8%;
+  color: white;
+    }
+
+</style>
+
+<body>
+    
+    <div id="rectangle">
+        <h1 id="num">Predicted Number is {{num}}</h1>
+    </div>
+
+</body>
+</html>
