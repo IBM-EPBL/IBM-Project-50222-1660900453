@@ -28,10 +28,10 @@ Handwriting recognition is one of the compelling research works going on because
     - [x] Sprint 4
     - [x] Testing
 - [x] Final Deliverables
-    - [x] Sprint 2
-    - [x] Sprint 3
-    - [x] Sprint 4
-    - [x] Testing
+    - [x] Final Code
+    - [x] IBM Cloud Deployment
+    - [x] Project Demo
+    - [x] Project Report
  - [x] Understanding the Data
  - [x] Model Building
  - [x] Application Building
