@@ -17,9 +17,9 @@ Handwriting recognition is one of the compelling research works going on because
 - [x] Assignment 2
 - [x] Assignment 3
 - [x] Assignment 4
-- [x] Ideation Phase[/Project_Design_and_Planning/Ideation_phase/]
-- [x] Project Design Phase 1
-- [x] Project Design Phase 2
+- [x] [Ideation Phase](/Project_Design_and_Planning/Ideation_phase/)
+- [x] [Project Design Phase 1]
+- [x] [Project Design Phase 2]
 - [x] Project Planning Phase
 - [x] Project Development Phase
 - [x] Final Deliverables
