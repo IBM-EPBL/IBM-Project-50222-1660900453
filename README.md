@@ -28,8 +28,6 @@ Handwriting recognition is one of the compelling research works going on because
     - [x] [Sprint 3](/Project_Development_Phase/Sprint_3/)
     - [x] [Sprint 4](/Project_Development_Phase/Sprint_4/)
     - [x] [Testing](/Project_Development_Phase/Testing/)
-           - [x] [User Acceptance Testing](/Project_Development_Phase/Testing/User Acceptance Testing/)
-           - [x] [Performance Testing](/Project_Development_Phase/Testing/Performance Testing/)
 - [x] [Final Deliverables](/Final_Deliverables/)
      - [x] [Final Code](/Final_Deliverables/Final code/)
      - [x] [IBM Cloud Deployment](/Final_Deliverables/IBM Cloud Deployment/)
