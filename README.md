@@ -12,23 +12,30 @@ Handwriting recognition is one of the compelling research works going on because
 <img width="464" alt="image" src="https://user-images.githubusercontent.com/61909580/189519047-9d40f0d5-09d1-4b91-8294-5a4863e04466.png">
 
 # Tasks Completed
-
-- [x] [Project Design and Planning](/Project_Design_and_Planning/)
-    - [x] [Ideation Phase](/Project_Design_and_Planning/Ideation_phase/)
-    - [x] [Project Design Phase 1](/Project_Design_and_Planning/Project_Design_Phase_1/)
-    - [x] [Project Design Phase 2](/Project_Design_and_Planning/Project_Design_Phase_2/)
-    - [x] [Project Planning Phase](/Project_Design_and_Planning/Project_Planning/)
-- [x] [Project Development Phase](/Project_Development_Phase/)
-    - [x] [Sprint 1](/Project_Development_Phase/Sprint_1/)
-    - [x] [Sprint 2](/Project_Development_Phase/Sprint_2/)
-    - [x] [Sprint 3](/Project_Development_Phase/Sprint_3/)
-    - [x] [Sprint 4](/Project_Development_Phase/Sprint_4/)
-    - [x] [Testing](/Project_Development_Phase/Testing/)
-- [x] [Final Deliverables](/Final_Deliverables/)
-    - [x] [Final Code](/Final_Deliverables/Final code/)
-    - [x] [IBM Cloud Deployment](/Final_Deliverables/IBM Cloud Deployment/)
-    - [x] [Project Demo](/Final_Deliverables/Project Demo/)
-    - [x] [Project Report](/Final_Deliverables/Project Report/)
+- [x] Assignment 1
+- [x] Assignment 2
+- [x] Assignment 3
+- [x] Assignment 4
+- [x] Project Design and Planning
+    - [x] Ideation Phase
+    - [x] Project Design Phase 1
+    - [x] Project Design Phase 2
+    - [x] Project Planning Phase
+- [x] Project Development Phase
+    - [x] Sprint 1
+    - [x] Sprint 2
+    - [x] Sprint 3
+    - [x] Sprint 4
+    - [x] Testing
+- [x] Final Deliverables
+    - [x] Sprint 2
+    - [x] Sprint 3
+    - [x] Sprint 4
+    - [x] Testing
+ - [x] Understanding the Data
+ - [x] Model Building
+ - [x] Application Building
+ - [x] Train the Model on IBM
 
     
 
