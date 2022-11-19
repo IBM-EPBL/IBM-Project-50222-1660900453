@@ -13,10 +13,6 @@ Handwriting recognition is one of the compelling research works going on because
 
 # Tasks Completed
 
-- [x] Assignment 1
-- [x] Assignment 2
-- [x] Assignment 3
-- [x] Assignment 4
 - [x] [Project Design and Planning](/Project_Design_and_Planning/)
     - [x] [Ideation Phase](/Project_Design_and_Planning/Ideation_phase/)
     - [x] [Project Design Phase 1](/Project_Design_and_Planning/Project_Design_Phase_1/)
@@ -29,13 +25,6 @@ Handwriting recognition is one of the compelling research works going on because
     - [x] [Sprint 4](/Project_Development_Phase/Sprint_4/)
     - [x] [Testing](/Project_Development_Phase/Testing/)
 - [x] [Final Deliverables](/Final_Deliverables/)
-     - [x] [Final Code](/Final_Deliverables/Final code/)
-     - [x] [IBM Cloud Deployment](/Final_Deliverables/IBM Cloud Deployment/)
-     - [x] [Project Demo](/Final_Deliverables/Project Demo/)
-     - [x] [Project Report](/Final_Deliverables/Project Report/)
-- [x] [Understanding the Data](/Understanding the data/)
-- [x] [Model Building](/Model Building/)
-- [x] [Application Building](/Application Building/)
-- [x] [Train the Model on IBM](/Train the Model on IBM/)
+     
 
 
